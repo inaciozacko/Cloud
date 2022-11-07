@@ -2,6 +2,7 @@ body{
     margin: 0 auto;
     background-color: rgb(255, 210, 217);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 70%;
 }
 
 .tudo{
@@ -36,13 +37,17 @@ body{
     border: 2px solid black;
     color: white;
     background-color: rgb(43, 43, 223);
-    width: 200px;
+    width: 30vh;
     height: 80px;
     font-size: 25px;
 }
 
 .escolha .gustavo:hover{
     background-color: rgb(111, 111, 252);
+}
+
+.escolha .gustavo:active{
+    background-color: rgb(43, 43, 223);
 }
 
 .escolha button{
@@ -53,13 +58,17 @@ body{
     border: 2px solid black;
     color: rgb(255, 255, 255);
     background-color: #fc0fc0;
-    width: 200px;
+    width: 30vh;
     height: 80px;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .escolha button:hover{
     background-color: #ff64d8;
+}
+
+.escolha button:active{
+    background-color: #fc0fc0;
 }
 
 /*  */
