@@ -37,9 +37,9 @@ body{
     border: 2px solid black;
     color: white;
     background-color: rgb(43, 43, 223);
-    width: 30vh;
-    height: 80px;
-    font-size: 25px;
+    width: 20vh;
+    height: 60px;
+    font-size: 20px;
 }
 
 .escolha .gustavo:hover{
@@ -58,8 +58,8 @@ body{
     border: 2px solid black;
     color: rgb(255, 255, 255);
     background-color: #fc0fc0;
-    width: 30vh;
-    height: 80px;
+    width: 20vh;
+    height: 60px;
     font-size: 20px;
 }
 
